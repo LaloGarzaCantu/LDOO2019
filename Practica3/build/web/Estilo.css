@@ -1,0 +1,31 @@
+body{
+    background: tomato;
+    
+}
+
+form{
+	width:90%;
+	border:2px solid#ccc;
+	margin:20px;
+	padding:20px 
+}
+
+label{
+	font-size: 12px;
+	display:block;
+	width:100%;
+}
+
+input,textarea{
+margin-bottom: 20px;
+width: 100%;
+padding: 10px;
+box-sizing: border-box;
+border: 1px solid#ccc;
+}
+
+input:focus,textarea{
+	border: 1px solid #1668C4;
+}
+
+
